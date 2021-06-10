@@ -1,11 +1,13 @@
-### ❇ ANIME DATABASE ❇
+### ❇ ANIME DATABASE REACT APP❇
 
 - Created with React.js, using [Anime Search APi][1] and Fetch
 
 **Preview**
+
 ![Search App](animeSearch.png "Search App")
 
-Link: 
+**Deploy on vercel**
+Link: https://app-anime.vercel.app/
 ### Installation
 
 -Clone the repository
